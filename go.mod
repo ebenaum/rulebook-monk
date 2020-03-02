@@ -1,3 +1,3 @@
-module github.com/jloup/ebenaum/rulebook
+module github.com/jloup/ebenaum/rulebook-monk
 
 go 1.13
