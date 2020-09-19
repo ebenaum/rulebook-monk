@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jloup/ebenaum/rulebook"
+	"github.com/ebenaum/rulebook-monk"
 )
 
 func main() {
